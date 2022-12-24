@@ -1,0 +1,23 @@
+ul {
+    background-color: aquamarine;
+    border: 0ex;
+    margin: 0em;
+    font-size: 60px;
+    font-family: 'Rubik Storm', cursive;
+}
+
+html {
+    background-color: #00539F;
+}
+
+ol {
+    display: flow-root;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+img {
+    display: block;
+}
